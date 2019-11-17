@@ -24,4 +24,4 @@ jobs:
         BRANCH: master
         FOLDER: _site
         BUILD_SCRIPT: |
-          echo "theme: jekyll-theme-cayman" > _site/_config.yml
+          touch _site/.nojekyll
