@@ -9,18 +9,19 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
-
-    - name: Build and Deploy
-      uses: JamesIves/github-pages-deploy-action@master
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        BASE_BRANCH: dev
-        BRANCH: master
-        FOLDER: _site
+    - name: Build
+    - uses: actions/checkout@v1
+    - run:
         BUILD_SCRIPT: |
           docker run \
           -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
           jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
           echo "theme: jekyll-theme-cayman" > _site/_config.yml
+
+    - name: Deploy
+    - uses: JamesIves/github-pages-deploy-action@master
+    - env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        BASE_BRANCH: dev
+        BRANCH: master
+        FOLDER: _site
