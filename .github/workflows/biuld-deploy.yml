@@ -9,8 +9,8 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - name: Build
     - uses: actions/checkout@v1
+    - name: Build
       run:
         BUILD_SCRIPT: |
           docker run \
