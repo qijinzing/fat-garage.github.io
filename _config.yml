@@ -18,13 +18,13 @@ plugins:
   - jekyll-seo-tag
   
 authors:
-    sal:
-      name:           Sal
-      site:           https://www.wowthemes.net
+    jessie:
+      name:           Jessie
+      site:           https://lg565245594.github.io
       avatar:         /assets/images/avatar1.jpg
-      bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
-      email:          wowthemesnet@gmail.com
-      twitter:        https://twitter.com/wowthemesnet
+      bio:            "Hi, I am Jessie, the author of fat-garage, the theme you're currently previewing. I hope you like it!"
+      email:          jessie@gmail.com
+      twitter:        https://twitter.com/jessie
 
     jane:
       name:           Jane
