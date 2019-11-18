@@ -21,7 +21,7 @@ authors:
     jessie:
       name:           Jessie
       site:           https://lg565245594.github.io
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Hi, I am Jessie, the author of fat-garage, the theme you're currently previewing. I hope you like it!"
       email:          jessie@gmail.com
       twitter:        https://twitter.com/jessie
@@ -29,7 +29,7 @@ authors:
     jane:
       name:           Jane
       site:           https://www.wowthemes.net
-      avatar:         /assets/images/avatar2.jpg
+      avatar:         assets/images/avatar2.jpg
       bio:            "Blogger, fashionista, love to explore new ideas and write on my morning coffee!"
       email:          fakemail@gmail.com
       twitter:        https://twitter.com/wowthemesnet
