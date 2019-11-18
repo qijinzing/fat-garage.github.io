@@ -11,7 +11,7 @@ tags: [sticky]
 
 我想吃蛋糕。很想很想吃。
 
-![walking](assets/images/WechatIMG2437.jpeg)
+![walking](/assets/images/WechatIMG2437.jpeg)
 
 #### Early 18th century woodcut of Bucharest
 
