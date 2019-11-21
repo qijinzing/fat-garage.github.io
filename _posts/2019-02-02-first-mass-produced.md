@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "The first mass-produced book to deviate from a rectilinear format"
-author: sal
-categories: [ tutorial ]
+layout: Episode
+title:  "Fat Garage E02 DAO with Daniel"
+author: Jessie
+categories: [ DAO ]
 image: assets/images/17.jpg
 tags: [featured]
 ---

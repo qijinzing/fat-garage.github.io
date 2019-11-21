@@ -1,25 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-categories: [ Jekyll ]
-image: assets/images/demo1.jpg
+title:  "胖车库fat garage"
+categories: [ Podcast ]
+image: assets/images/fatgarage.jpeg
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+这个播客是一个有意思人类的收集计划（开发者、创业者、自由职业者，还有你），目前以播主的圈子为起点给大家呈现，在各种新的领域大家都在做什么样的尝试和努力，希望给你未来的可能性提供一些想象力。姨母和jinma和Jessie在吃蛋糕。
 
-Jekyll also offers powerful support for code snippets:
+符合条件者请自觉自荐，谢谢。
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![walking](/assets/images/喜马拉雅封面.jpg)

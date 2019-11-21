@@ -1,8 +1,8 @@
 ---
-layout: post
-title:  "Education must also train one for quick, resolute and effective thinking."
-categories: [ Jekyll, tutorial ]
-image: assets/images/3.jpg
+layout: Episode
+title:  "Fat Garage E03 为什么未来精英们需要DAO？"
+categories: [ DAO ]
+image: assets/images/第三期公众号封面.jpeg
 ---
 There are lots of powerful things you can do with the Markdown editor
 

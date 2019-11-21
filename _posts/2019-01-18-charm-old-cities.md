@@ -1,15 +1,18 @@
 ---
 layout: post
-title:  "Could we reinvent the charm of old cities? Yes!"
+title:  "26岁不怂"
 author: jessie
 categories: [ Jekyll, tutorial ]
-image: assets/images/home.jpg
+image: assets/images/dancegirls.jpg
 tags: [sticky]
 ---
 
-!
+说了这多胡言乱语，视频还是要看的，如果你爱杰西，I knew you do :)
 
-我想吃蛋糕。很想很想吃。
+
+火速前来支援
+
+我想吃蛋糕。很想很想吃。但是我不敢吃，因为胖
 
 ![walking](/assets/images/WechatIMG2437.jpeg)
 
