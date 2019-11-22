@@ -20,7 +20,7 @@ plugins:
 authors:
     jessie:
       name:           Jessie
-      site:           https://lg565245594.github.io
+      site:           https://fat-garage.github.io/welcome-to-jekyll/
       avatar:         assets/images/jessie.jpeg
       bio:            "Hi, I am Jessie, the author of fat-garage, the theme you're currently previewing. I hope you like it!"
       email:          jessiaoii19@gmail.com
