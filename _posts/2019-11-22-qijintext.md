@@ -2,8 +2,8 @@
 layout: post
 title:  "为什么未来的精英们需要DAO"
 author: qijin
-categories: [ Jekyll, tutorial ]
-image: assets/images/tianfuzhen.jpeg
+categories: [ DAO ]
+image: assets/images/第三期公众号封面.jpeg
 tags: [featured]
 ---
 
