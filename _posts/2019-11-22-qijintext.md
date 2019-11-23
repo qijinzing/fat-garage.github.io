@@ -44,4 +44,4 @@ MarketingDAO发起于以太坊大阪开发者大会，接近50名发起者们想
 
 
 
-![walking](/assets/images/tianfuzhen.jpeg)
+![walking](/assets/images/第三期公众号封面.jpeg)
